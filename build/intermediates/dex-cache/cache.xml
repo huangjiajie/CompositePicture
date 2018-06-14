@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_f8602ffc1c5172d4dddd99aeafa12534e33e3b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_613e0deafe907bcbe9cfac5f59711edce2e3bbe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/glide-3.8.0_1ed0fa991626c6f9bd84d553852aaa106bd45677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8dc37db156629e16609aec8807995eb4a7964c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/glide-3.8.0_1ed0fa991626c6f9bd84d553852aaa106bd45677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_e874060c430957ab5e902ff3f103181c37d08ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_41b5e833d5c5272a95100509bac652e526a6edd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_c25e8b24cfb2f6fbe7ad55814562e31d0e689278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_dc05e86b4869da545433cc448ff6ca885c1279e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_c25e8b24cfb2f6fbe7ad55814562e31d0e689278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_0aa0563a62bd35235fa3a4e4cf10524eaa9ff44c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_46703dde703a63ad1e966291e7116ef7a024871d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4607bee331eaba646b3abf6cc8b78475a4994cad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_2f7dcbfab911a39658f58400a340fa9f36312cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_633829b6ae17f60089b382776985b0efce71ae30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_633829b6ae17f60089b382776985b0efce71ae30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_9405e1cd03c1a47f7d010b6d43bd55563ee16204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_c609b1fd5235193de071cf5d8e5e63b0b84377e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_f41c0887fbdddd867ad0394d4dd29753877f64cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5aae7bcb3a9c2a6c46a8d8b0c4a00d45599f5bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangjiajie/git_composite_picture/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/huangjiajie/git_composite_picture/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_938c3ee376a787cb6f25aaa0e9b10412115635e2.jar" />
+    </item>
+
+</items>
